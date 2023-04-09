@@ -1,0 +1,15 @@
+name: manga_generator
+description: An empty conduit application.
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  conduit: ^4.0.0
+  dio: ^5.1.1
+
+dev_dependencies:
+  test: ^1.21.6
+  conduit_test: ^4.0.0
